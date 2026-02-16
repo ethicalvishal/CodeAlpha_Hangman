@@ -1,4 +1,4 @@
-# 🎮 Hangman Game in Python
+# CodeAlpha Hangman Game in Python
 
 A simple **Hangman game** implemented in Python. Guess the word letter by letter before you run out of attempts! Includes fun emojis to make it more interactive. 
 
